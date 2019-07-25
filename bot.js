@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'namanh') {
-    	message.reply('Nam Anh Loz');
+    	message.reply('$nomention Nam Anh Loz');
   	}
 });
 
