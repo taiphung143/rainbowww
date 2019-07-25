@@ -80,3 +80,6 @@ class Bot {
 }
 
 var instance = new Bot();
+
+
+client.login(process.env.BOT_TOKEN);
