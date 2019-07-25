@@ -7,7 +7,13 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'namanh') {
-    	message.reply('$nomention Nam Anh Loz');
+    	message.reply('Nam Anh Loz');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'taiphung') {
+    	message.reply('Tài Phùng Đzai');
   	}
 });
 
