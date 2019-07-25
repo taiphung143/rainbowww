@@ -1,4 +1,4 @@
 {
-    "discord_token": "bot_key",
+    "discord_token": "process.evn.BOT_TOKEN",
     "randomize_delay": 10
 }
