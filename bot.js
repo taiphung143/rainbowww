@@ -1,7 +1,7 @@
 var discord = require('discord.js');
 var fs = require('fs');
 var randomColour = require('randomcolor'); // yes, the creator of this package does not speak the real english
-var Config = require('./config.json');
+
 
 class Bot {
     constructor(){
